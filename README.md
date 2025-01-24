@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I am Alice Vasaki 👋
 🎓 I 'm pursuing my degree on Informatics and Telecommunications in University of Athens<br>
 🌱 Currently learning Object Oriented Programming and Web Development<br>
 👩‍💻 I also enjoy programming for fun <br>
@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats:
+# 📊 MyStats:
 ![](https://github-readme-stats.vercel.app/api?username=alikivasaki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alikivasaki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
