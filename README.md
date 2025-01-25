@@ -1,4 +1,4 @@
-# Hello, I am Alice Vasaki 👋
+# Hello, I'm Alice 👋
 🎓 I 'm pursuing my degree on Informatics and Telecommunications in University of Athens<br>
 🌱 Currently learning Object Oriented Programming and Web Development<br>
 👩‍💻 I also enjoy programming for fun <br>
