@@ -1,6 +1,6 @@
 # Hello, I'm Alice 👋
 🎓 I'm pursuing my degree on Informatics and Telecommunications in University of Athens<br>
-🌱 Currently learning Object Oriented Programming and Web Development<br>
+🌱 Currently learning Web Development<br>
 👩‍💻 I also enjoy program for fun <br>
 
 # 💻 What I have learned so far:
