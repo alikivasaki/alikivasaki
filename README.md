@@ -1,7 +1,7 @@
 # Hello, I'm Alice 👋
 🎓 I'm pursuing my degree on Informatics and Telecommunications in University of Athens<br>
 🌱 Currently learning Web Development<br>
-🤖 I also building stuff for fun <br>
+🤖 I also enjoy building stuff for fun <br>
 
 # 💻 What I have learned so far:
 <!--
